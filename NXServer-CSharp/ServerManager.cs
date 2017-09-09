@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace NXServer_CSharp
 {
-    public class ServerMain
+    public class ServerManager
     {
-        private static void Main(string[] args)
-        {
 
-        }
     }
 }
